@@ -1,6 +1,9 @@
 ## Create a new project called GA_Inheritance_Access_YourName
-## Accessible Steps Required
 
+### Lecture Video - Must Review
+### https://youtu.be/o-loXcTN0kM?si=hAP6Oyut7757WDQf
+
+## Accessible Steps Required
 **Creating a New Class:**
 
 1. Open your project in Visual Studio.
